@@ -1,6 +1,7 @@
 # How to use
 
 - Install [AutoHotkey](https://www.autohotkey.com)
+- Download the .ahk file on this respository
 - Double Click on the script file (It will open in background, you will se the "H" icon in your tray
 - Open the game
 - Point to the sword
